@@ -1,0 +1,46 @@
+{
+  "experiences": [
+    {
+      "company": "ItaliaOnline",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "Accenture",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "Touch Payments",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "Lakeba",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "Optus",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "Siteminder",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    },
+    {
+      "company": "InnoWell",
+      "startDate": "",
+      "endDate": "",
+      "role": "Frontend Engineer"
+    }
+  ]
+}
